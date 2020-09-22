@@ -1,0 +1,103 @@
+/* 
+ Reference Coding Journey https://www.youtube.com/watch?v=THZyM2z8s-o&t=805s  */
+/*  https://www.w3schools.com/css/default.asp */
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color:white;
+    max-width:550px;
+    margin: auto;
+    background-image: url("https://wallpapercave.com/wp/wp2567270.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h1 {
+    text-align: left;
+  }
+ 
+p
+{
+  font-size: 20px;;
+}
+
+th{
+  font-size: 20px;
+  text-align: left;
+  padding-top: 15px;
+  width: 55%;
+  text-shadow: 2px 2px red;
+}
+
+td{
+  font-size: 15px;
+  padding-top: 15px;
+  
+}
+
+#map-container a {
+  font-size: 15px;
+  }
+  
+  a:link, a:visited {
+  background-color: red;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  }
+
+
+table, th, td {
+  border: 1px solid white;
+    border-spacing: 5px;
+  
+}
+#flag-container img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  height: 152px;
+  width: 250px;
+  background-color: #fff;
+  border: 1px solid #333;
+}
+#info-container select {
+  display: block;
+  margin: 20px auto;
+  padding: 5px;
+  min-width: 100%;
+  color:black;
+  font-size: 15px;
+  font-weight: 900;
+  text-align-last: center;
+}
+
+button
+{
+background-color: red;
+color: white;
+padding: 10px 250px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 15px;
+}
+
+button:hover
+{
+background-color: blue;
+color: white;
+padding: 10px 250px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 15px;
+}
+
+
+a:hover, a:active {
+background-color: blue;
+}
+
